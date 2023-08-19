@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONI-High Precision Temperature", "ONI-High Precision Temperature.csproj", "{08AC101A-3296-4709-B6C1-581D2B0663F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08AC101A-3296-4709-B6C1-581D2B0663F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AC101A-3296-4709-B6C1-581D2B0663F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AC101A-3296-4709-B6C1-581D2B0663F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AC101A-3296-4709-B6C1-581D2B0663F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF647E4E-B1E4-45BD-958B-2311A5FB714C}
+	EndGlobalSection
+EndGlobal
