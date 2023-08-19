@@ -3,7 +3,7 @@
 ![avatar](ONI-High%20Precision%20Temperature-cover.png)
 ### Features
 
-- Just keep the temperature displayed in high-precision form (the original version only displays high-precision when the absolute value of temperature is less than 0.1).
+- It just keep the temperature displayed in high-precision form (the original version only displays the temperature with high precision when the absolute value of temperature is less than 0.1).
 
 ![avatar](ONI-High%20Precision%20Temperature.png)
 ![avatar](ONI-High%20Precision%20Temperature-none.png)
