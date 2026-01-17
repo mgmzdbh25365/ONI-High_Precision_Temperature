@@ -20,4 +20,20 @@ namespace Main
 			}
 		}
 	}
+
+    // since [Game Update] - 674504 
+	[HarmonyPatch(typeof(GameUtil) , "AppendFormattedTemperature")]
+	public static class Temperature_Patch_New
+	{
+		public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instr)
+		{
+			List<CodeInstruction> code = instr.ToList();
+			foreach (CodeInstruction codeInstruction in code)
+			{
+				if (codeInstruction.opcode == OpCodes.Ldc_R4 && (float)codeInstruction.operand == 0.1f)
+					codeInstruction.operand = float.MaxValue;
+				yield return codeInstruction;
+			}
+		}
+	}
 }

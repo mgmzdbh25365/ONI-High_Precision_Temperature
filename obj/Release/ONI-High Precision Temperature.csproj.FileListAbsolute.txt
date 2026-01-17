@@ -39,3 +39,50 @@ C:\Users\Administrator\source\repos\ONI-High Precision Temperature\obj\Release\O
 C:\Users\Administrator\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.csproj.CopyComplete
 C:\Users\Administrator\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.dll
 C:\Users\Administrator\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.pdb
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\ONI-High Precision Temperature.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\ONI-High Precision Temperature.pdb
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\0Harmony.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\Assembly-CSharp.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.UI.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\Unity.TextMeshPro.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.UIModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\Newtonsoft.Json.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\FMODUnity.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\ImGui.NET.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\ImGui.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.VideoModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.UnityWebRequestModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\com.rlabrecque.steamworks.net.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.PhysicsModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\Ionic.Zip.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.AnimationModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\LibNoiseDotNet.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.Physics2DModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.JSONSerializeModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.IMGUIModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.ScreenCaptureModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\ArabicSupport.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\netstandard.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.SharedInternalsModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.UIElementsModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.TilemapModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.SpriteShapeModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\Unity.Timeline.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.DirectorModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.AudioModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\bin\Release\UnityEngine.GridModule.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.csproj.AssemblyReference.cache
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.csproj.CoreCompileInputs.cache
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High.FFC03800.Up2Date
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.dll
+C:\Users\mgmzdbh25365\source\repos\ONI-High Precision Temperature\obj\Release\ONI-High Precision Temperature.pdb
